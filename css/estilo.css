@@ -307,33 +307,44 @@ body{
 }
 
 #container{
-	width: 720px;
-	padding: 0 auto;
+	width: 85%;
+	margin: 0 auto;
 	background: #fff;
+	min-width: 720px;
+	max-width: 1280px;
 }
 
 #marca{
-height: 100px;
+height: 720;
 background:  #9E9E9E;
 text-align: center;
 line-height: 100px;
 }
 
 #conteudo{
-	width: 520px;
+	width: 75%;
 	float: right;
 }
 
 #conteudo-principal{
-	width: 320px;
+	width: 74%;
 	float: left;
 }
 
 #conteudosencundario{
-	width: 180px;
+	width: 23%;
 	float: right;
 	background: #d1d1d1;
 }
+
+#navegacao{
+	width: 23%;
+	float: left;
+	padding-top: 20px;	
+	padding-bottom: 20px;
+	background: #d1d1d1;
+}
+
 
 #conteudosencundario h1,
 #conteudosencundario h2,
@@ -344,13 +355,6 @@ line-height: 100px;
 }
 
 
-#navegacao{
-	width: 180px;
-	float: left;
-	padding-top: 20px;	
-	padding-bottom: 20px;
-	background: #d1d1d1;
-}
 
 #rodape{
 	clear: both;
