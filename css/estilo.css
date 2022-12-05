@@ -411,7 +411,7 @@ th:hover{
 } */
 
 
-body{
+/* body{
 	font-family: 'Courier New', Courier, monospace;
 }
 
@@ -440,6 +440,11 @@ textarea{
 	height: 10em;
 }
 
+input.radio, input.checkbox, input.submit{
+	width: auto;
+}
 
-
+.radio{
+	margin-right: 1em;
+} */
 
