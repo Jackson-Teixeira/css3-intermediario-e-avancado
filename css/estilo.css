@@ -448,7 +448,7 @@ input.radio, input.checkbox, input.submit{
 	margin-right: 1em;
 } */
 
-body{
+/* body{
 	font-family: 'Times New Roman', Times, serif;
 	background: #643d87 url(../imagens/fundo.jpg) no-repeat top center ; 
 } 	
@@ -499,5 +499,3 @@ input.submit {
 	padding: 5px 20px;
 	width: 90%;
 	background: linear-gradient( to bottom, #faa600, #f68a00);
-
-}
